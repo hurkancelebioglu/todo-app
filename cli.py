@@ -26,7 +26,6 @@ while True:
     elif (user_action.lower()).startswith("edit"):
         try:
             number_edit = int(user_action[5:])
-            print(number_edit)
             number_edit = number_edit - 1
 
             todos = functions.get_todos()
