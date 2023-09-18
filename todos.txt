@@ -1,6 +1,8 @@
-Water
-Prepare
-Drink Water
-New todo
-Todooo
-Old todo
+Hello
+my name
+is
+hurkan
+celebioglu
+this is
+my
+todo app
